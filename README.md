@@ -1,3 +1,6 @@
+
+<img width="1342" height="745" alt="project" src="https://github.com/user-attachments/assets/012f9d6a-1bf6-46f3-835f-b1dad3c6642c" />
+
 🚀 Multi-PDF Chatbot Powered by Google Gemini, Pinecone, and LangChain!
 Excited to share my latest project: an AI-powered chatbot that enables seamless interaction with multiple PDFs using the modern RAG (Retrieval-Augmented Generation) architecture.
 
